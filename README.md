@@ -1,4 +1,4 @@
 cosmicblend
 ===========
 
-Main freelancing website
+Main freelancing website.
